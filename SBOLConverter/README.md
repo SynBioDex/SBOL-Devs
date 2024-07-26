@@ -40,7 +40,7 @@ With the feedback provided in slack your code will be polished and ready to writ
 Add your test to thi the [test_sbol2_sbol3_direct](https://github.com/SynBioDex/SBOL-utilities/blob/develop/test/test_sbol2_sbol3_direct.py) file, scroll around and follow the pattern.
 Probably you will have issues implementing the test, ask in the Slack channel we are happy to help. You can find objects to use in your teste in the [SBOLTestSuite](https://github.com/SynBioDex/SBOLTestSuite) repository.
 
-# Contribute your branch
+## Contribute your branch
 
 Once your test passed succesfully you will see the gree dot that indicates that the CI/CD workflow runnned without errors.
 Create a pull request and ask for review to the package maintainer Jake Beal, optionally you can add other SBOL Devs.
